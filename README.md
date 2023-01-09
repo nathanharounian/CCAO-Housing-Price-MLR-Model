@@ -4,10 +4,6 @@ A linear model using multiple features from the Cook County Assessor’s Office 
 
 ### Files in repository and their descriptions
 
-`cook_county_train.csv` : the housing data training set.
-
-`cook_county_test.csv` : the housing data test set.
-
 `housing_data_codebook.txt` : detailed feature descriptions of the housing data.
 
 `proj1b.ipynb` : the code + writeup for the model.
