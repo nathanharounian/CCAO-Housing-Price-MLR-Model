@@ -5,3 +5,4 @@ A linear model using multiple features from the Cook County Assessor’s Office 
 ### Files in repository and their descriptions
 
 `proj1b.ipynb` : the code + writeup for the model.
+`submission_2022-07-27T18_14_09.csv` : final predictions for test set with 68264 observations
